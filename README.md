@@ -18,7 +18,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```python 
+def fun(a):
+    c=a
+    return c
+```
+## OUTPUT
+![output](/output%20swap.png)
 
 
 ## RESULT:
